@@ -38,12 +38,9 @@ open and paste
 ```
 save the changes
 
-then press
-```
-Ctrl + Shift + X
-```
+then press `Ctrl + Shift + X`
 
-and download **Aura Dracula Spirit** color theme theme, and other (optional) packages
+and download `Aura Dracula Spirit` color theme theme, and other (optional) packages
 
 ## that is it, happy building apps that matter ⚡️
 🌴 xamidov.uz
