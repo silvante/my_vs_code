@@ -1,13 +1,11 @@
-## My VS Code configs 👾
+# My VS Code configs 👾
 
 just for back-up my configs for next time 🌟
 
 ## Open User Settings (JSON)
 
 to open, press
-```
-Ctrl + Shift + P
-```
+`Ctrl + Shift + P`
 
 and type
 ```
@@ -45,7 +43,7 @@ then press
 Ctrl + Shift + X
 ```
 
-and download "Aura Dracula Spirit" color theme theme, and other (optional) packages
+and download **Aura Dracula Spirit** color theme theme, and other (optional) packages
 
-## that is it, happy building apps that matters ⚡️
+## that is it, happy building apps that matter ⚡️
 🌴 xamidov.uz
