@@ -43,4 +43,5 @@ then press `Ctrl + Shift + X`
 and download `Aura Dracula Spirit` color theme theme, and other (optional) packages
 
 ## that is it, happy building apps that matter ⚡️
-🌴 [xamidov.uz](https://xamidov.uz)
+
+🌴 [xamidov uz](https://xamidov.uz)
