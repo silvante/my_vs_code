@@ -4,7 +4,7 @@ just for back-up my configs for next time 🌟
 
 ## Open User Settings (JSON)
 
-to open press
+to open, press
 ```
 Ctrl + Shift + P
 ```
@@ -48,4 +48,4 @@ Ctrl + Shift + X
 and download "Aura Dracula Spirit" color theme theme, and other (optional) packages
 
 ## that is it, happy building apps that matters ⚡️
--- https://xamidov.uz
+🌴 xamidov.uz
