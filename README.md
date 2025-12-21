@@ -32,7 +32,10 @@ open and paste
     "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 12,
     "explorer.compactFolders": false,
-    "window.zoomLevel": 1.4,
+    "window.zoomLevel": 1.5,
+    "files.autoSave": "afterDelay",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "phase",
 }
 
 ```
