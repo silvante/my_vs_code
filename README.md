@@ -16,7 +16,7 @@ open and paste
 ```json
 
 {
-    "workbench.colorTheme": "Aura Dracula Spirit",
+    "workbench.colorTheme": "Catppuccin Mocha",
     "workbench.activityBar.location": "hidden",
     "workbench.editor.showTabs": "single",
     "workbench.statusBar.visible": true,
@@ -32,10 +32,10 @@ open and paste
     "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 12,
     "explorer.compactFolders": false,
-    "window.zoomLevel": 1.5,
+    "window.zoomLevel": 2,
     "files.autoSave": "afterDelay",
-    "editor.cursorStyle": "block",
-    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "expand",
 }
 
 ```
