@@ -2,6 +2,10 @@
 
 just for back-up my configs for next time 🌟
 
+## 📸 Preview
+
+![Theme Preview](./preview/preview.png)
+
 ## Open User Settings (JSON)
 
 to open, press
