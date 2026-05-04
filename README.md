@@ -21,7 +21,7 @@ open and paste
 
 {
     "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.activityBar.location": "hidden",
+    "workbench.activityBar.location": "default",
     "workbench.editor.showTabs": "single",
     "workbench.statusBar.visible": true,
     "workbench.startupEditor": "none",
@@ -36,10 +36,12 @@ open and paste
     "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 12,
     "explorer.compactFolders": false,
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
     "files.autoSave": "afterDelay",
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "expand",
+    "workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
+    "explorer.confirmDelete": false,
 }
 
 ```
