@@ -21,14 +21,12 @@ open and paste
 
 {
     "workbench.colorTheme": "Catppuccin Mocha",
-    "workbench.activityBar.location": "default",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
     "workbench.editor.showTabs": "single",
-    "workbench.statusBar.visible": true,
     "workbench.startupEditor": "none",
     "workbench.tips.enabled": false,
-    "editor.minimap.enabled": false,
     "editor.stickyScroll.enabled": false,
-    "breadcrumbs.enabled": false,
     "workbench.sideBar.location": "right",
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.hidesExplorerArrows": true,
@@ -36,12 +34,24 @@ open and paste
     "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 12,
     "explorer.compactFolders": false,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 1.5,
     "files.autoSave": "afterDelay",
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "expand",
-    "workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
+    "workbench.preferredHighContrastColorTheme": "Julia (Monokai Vibrant)",
     "explorer.confirmDelete": false,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.overviewRulerBorder": false,
+    "workbench.editor.enablePreview": false,
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+    "workbench.browser.showInTitleBar": true
 }
 
 ```
